@@ -2,7 +2,7 @@
 This project aims to analyse the correlation between the Geopolitical Risks existing in the world and the Credit Behavior of individuals.
 This project investigates the relationship between geopolitical risk and consumer credit behavior over a transformative decade.
 Integrated multi-source datasets from the Caldara-Iacoviello Geopolitical Risk Index and Federal Reserve Economic Data (FRED).
-The project utilized Python's pandas library to clean and merge the datasets, preparing them for deeper analysis. Numpy and matplotlib were then leveraged to visualize the findings—creating time series trends to track changes over the decade, scatter plots to explore correlations, and summary statistics to quantify key patterns in the data.
+The project utilized Python's pandas library to clean and merge the datasets, preparing them for deeper analysis. Numpy and matplotlib were then leveraged to visualize the findings,creating time series trends to track changes over the decade, scatter plots to explore correlations, and summary statistics to quantify key patterns in the data.
 #Results
 The GPR data basically considers wars, terrorism, threats, and military tensions.The FRED data considers the Total consumer credit.
 Number of observations = 128 observations.
